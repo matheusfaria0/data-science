@@ -1,4 +1,4 @@
-## [Projeto 01. Programando algorítmo de regressão linear.](https://twitter.com/home)
+## [Projeto 01. Programando algorítmo de regressão linear.](https://github.com/matheusfaria0/regressao-linear)
 Implementando o algorítmo de regressão linear de uma forma didática utilizando Python.
 
 
